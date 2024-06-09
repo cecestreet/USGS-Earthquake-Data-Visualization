@@ -4,4 +4,4 @@ A visual representation of the data gathered by the US Geological Survey, Earthq
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 
-# Screen recording of the visualization running: https://youtu.be/K6cJwxV8DC0
+# Screen Recording of the Visualization running: https://youtu.be/K6cJwxV8DC0
